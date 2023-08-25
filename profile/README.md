@@ -9,4 +9,4 @@ Operating systems / Versions:
 - esterOS PC (based on Ubuntu 22.04)
 
 
-Check out our discord server at https://discord.gg/twEZhESfrh !
+Check out our Discord server at https://discord.gg/twEZhESfrh !
