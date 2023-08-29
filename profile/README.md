@@ -5,7 +5,7 @@ This is the official esterOS GitHub and if you see any other ones please report 
 
 Operating systems / Versions:
 - esterOS Mobile (based on Android 14-11)
-- esterOS Go Mobile (based on Android Go 14-7)
+- esterOS Go Mobile (based on Android Go 13-7)
 - esterOS PC (based on Ubuntu 22.04)
 
 
