@@ -1,5 +1,7 @@
-![banner](https://github.com/user-attachments/assets/6a006d81-6a44-448e-8423-66ec1398d425)
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c61d2fe-7f44-4dc6-ad35-f13096878203">
+</p>
+
 ## Welcome!
 nekoDroid is a ROM based off [risingOS](https://github.com/RisingTechOSS). 
 
