@@ -7,3 +7,5 @@ nekoDroid is a ROM based off [LineageOS](https://github.com/LineageOS).
 
 ## What is nekoDroid?
 nekoDroid is a simple, feature packed Android ROM bringing you the best of customization with custom configurations to make your device feel like yours.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I212Q9G9)
